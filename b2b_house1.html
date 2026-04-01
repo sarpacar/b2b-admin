@@ -536,7 +536,7 @@ footer {
   async function loadEvents() {
     let events = [];
     try {
-      const res = await fetch(EVENTS_JSON_URL, { cache: 'no-cache' });
+      const res = await fetch(EVENTS_JSON_URL + '?t=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error('fetch failed');
       events = await res.json();
     } catch (err) {
@@ -638,4 +638,3 @@ footer {
 
   document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
 </script>
-
