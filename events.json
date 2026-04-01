@@ -1,50 +1,10 @@
 [
   {
-    "day": "12",
-    "month": "Apr",
-    "venue": "Fabric",
-    "name": "b2b Night Vol. 4",
-    "city": "London, UK",
-    "ticketUrl": "https://fabriclondon.com"
-  },
-  {
-    "day": "26",
-    "month": "Apr",
-    "venue": "Tresor",
-    "name": "Back to Back Session",
-    "city": "Berlin, DE",
-    "ticketUrl": "https://tresorberlin.com"
-  },
-  {
     "day": "10",
-    "month": "May",
-    "venue": "Robert Johnson",
-    "name": "b2b House Open Air",
-    "city": "Frankfurt, DE",
-    "ticketUrl": "#"
-  },
-  {
-    "day": "24",
-    "month": "May",
-    "venue": "De School",
-    "name": "b2b House Amsterdam",
-    "city": "Amsterdam, NL",
-    "ticketUrl": "#"
-  },
-  {
-    "day": "07",
-    "month": "Jun",
-    "venue": "Fabric",
-    "name": "b2b Night Vol. 5",
-    "city": "London, UK",
-    "ticketUrl": "#"
-  },
-  {
-    "day": "21",
-    "month": "Jun",
-    "venue": "Berghain",
-    "name": "Summer Solstice Session",
-    "city": "Berlin, DE",
+    "month": "Apr",
+    "venue": "ONATI",
+    "name": "SİKİYORUM",
+    "city": "Istanbul",
     "ticketUrl": "#"
   }
 ]
