@@ -1,18 +1,10 @@
 [
   {
-    "day": "10",
+    "day": "12",
     "month": "Apr",
-    "venue": "ONATI",
-    "name": "KAYDIM",
-    "city": "Istanbul",
-    "ticketUrl": "#"
-  },
-  {
-    "day": "11",
-    "month": "Apr",
-    "venue": "aasadsasd",
-    "name": "asdasdasd",
-    "city": "zvzxzxcz",
+    "venue": "onata",
+    "name": "kaymak",
+    "city": "istanbul",
     "ticketUrl": "#"
   }
 ]
